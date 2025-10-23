@@ -1,0 +1,22 @@
+ibm-fe-chat-ui/
+│
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+│
+├── src/
+│   ├── components/
+│   │   ├── ChatWindow.jsx
+│   │   ├── ContactList.jsx
+│   │   ├── MessageInput.jsx
+│   │   └── MessageBubble.jsx
+│   │
+│   ├── App.jsx
+│   ├── index.js
+│   ├── App.css
+│   └── styles/
+│       └── chat.css
+│
+├── package.json
+├── README.md
+└── .gitignore
